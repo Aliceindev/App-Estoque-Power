@@ -2,7 +2,7 @@
 App Estoque Power System - Power Plataform, Power Apps, One Driver.
 
 # Project Aim
-This project aims to develop software that reports car wash requests. According to: model, brand, license plate, color and owner. Additionally, there is a Listing screen with options to change and delete the order within a table. And for better visualization, there is a tab in the menu called Query, in which this screen contains a search field for those responsible for administration to search within the database by typing the name of the owner.
+App Estoque Power is an application developed in Power Apps to manage inventories efficiently. It offers features such as product registration and listing, entry and exit registration, inventory adjustments and a complete movement history. Ideal for companies looking for organization and precise control of their stocks.
 
 ## 📌&nbsp;Tools Required:
 1. Power Plataform
